@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar .n1{
+    padding-top: 35px;
+    padding-left: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.navbar .n1 ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+.navbar .n1 ul li{
+
+    list-style: none;
+    gap: 30px;
+    
+}
+.navbar .n1 ul li a{
+    color: black;
+    text-decoration: none;
+}
+.navbar .n2{
+    padding-top: 35px;
+    padding-right: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+.navbar .n2 ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+.navbar .n2 ul li{
+
+    list-style: none;
+    gap: 30px;
+    
+}
+.navbar .n2 ul li a{
+    color: black;
+    text-decoration: none;
+}
+.sobtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.sobtn h3{
+    color: white;
+    padding-right: 30px;
+}
+.sobtn button{
+    padding: 5px;
+    background-color: red;
+    border-radius: 15px;
+    color: white;
+    font-size: larger;
+}
+.browsee{
+    font-size: x-large;
+    margin: 70px;
+}
+.br1{
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.br1 h3{
+    font-size: medium;
+    text-align: center;
+}
+.br2{
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.br2 h3{
+    font-size: medium;
+    text-align: center;
+}
+
+.offer{
+
+    font-size: x-large;
+    margin: 70px;
+    
+}
+.of1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.v1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.info{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.info ul li{
+    list-style: none;
+    padding: 5px;
+}
